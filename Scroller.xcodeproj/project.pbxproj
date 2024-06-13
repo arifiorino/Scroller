@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		D4DE399F2C1B6A8B00D3092A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4DE399E2C1B6A8B00D3092A /* AppDelegate.swift */; };
-		D4DE39A12C1B6A8B00D3092A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4DE39A02C1B6A8B00D3092A /* ViewController.swift */; };
 		D4DE39A32C1B6A8C00D3092A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4DE39A22C1B6A8C00D3092A /* Assets.xcassets */; };
 		D4DE39A62C1B6A8C00D3092A /* Base in Resources */ = {isa = PBXBuildFile; fileRef = D4DE39A52C1B6A8C00D3092A /* Base */; };
 /* End PBXBuildFile section */
@@ -16,7 +15,6 @@
 /* Begin PBXFileReference section */
 		D4DE399B2C1B6A8B00D3092A /* Scroller.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scroller.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4DE399E2C1B6A8B00D3092A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D4DE39A02C1B6A8B00D3092A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D4DE39A22C1B6A8C00D3092A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D4DE39A52C1B6A8C00D3092A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D4DE39A72C1B6A8C00D3092A /* Scroller.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Scroller.entitlements; sourceTree = "<group>"; };
@@ -53,7 +51,6 @@
 			isa = PBXGroup;
 			children = (
 				D4DE399E2C1B6A8B00D3092A /* AppDelegate.swift */,
-				D4DE39A02C1B6A8B00D3092A /* ViewController.swift */,
 				D4DE39A22C1B6A8C00D3092A /* Assets.xcassets */,
 				D4DE39A42C1B6A8C00D3092A /* Main.storyboard */,
 				D4DE39A72C1B6A8C00D3092A /* Scroller.entitlements */,
@@ -131,7 +128,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D4DE39A12C1B6A8B00D3092A /* ViewController.swift in Sources */,
 				D4DE399F2C1B6A8B00D3092A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
